@@ -1,0 +1,7 @@
+Zilch task project
+
+This service exposes an Add New Card API which stores the card details after encrypting the fields.
+
+There is also an GET endpoint to query and check the saved card details.
+
+The service should be testable through local swagger ui : http://localhost:9999/swagger-ui.html
